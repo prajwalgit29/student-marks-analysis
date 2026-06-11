@@ -1,0 +1,11 @@
+Employee_ID,Name,Department,Experience,Salary
+101,Amit,IT,2.0,45000.0
+102,Priya,HR,5.0,60000.0
+103,Rahul,IT,,55000.0
+104,Sneha,Finance,3.0,
+105,Arjun,HR,7.0,75000.0
+106,Kiran,IT,1.0,40000.0
+107,Neha,Finance,,65000.0
+108,Ravi,HR,4.0,58000.0
+109,Pooja,IT,6.0,
+110,Manoj,Finance,2.0,52000.0
